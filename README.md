@@ -26,3 +26,6 @@ the script:
 ```bash
 python parser.py
 ```
+
+## Note
+This project is intended as a concept demonstration and learning exercise.
